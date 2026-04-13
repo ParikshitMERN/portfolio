@@ -74,8 +74,8 @@ function Contact() {
       )}
 
       <div className="mt-10">
-        <p className="text-base md:text-lg">📞 9803659437</p>
-        <p className="text-base md:text-lg">✉️ pariks2345@gmail.com</p>
+        <p className="text-base md:text-lg">9803659437</p>
+        <p className="text-base md:text-lg">ariks2345@gmail.com</p>
       </div>
     </section>
   );
