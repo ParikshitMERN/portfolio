@@ -6,7 +6,7 @@ function Footer() {
     <footer className="text-center text-white p-4 md:p-5 bg-black">
       <p className="text-sm md:text-base">9803659437 | pariks2345@gmail.com</p>
       <p className="mt-2 text-sm md:text-base">
-        &copy; 2024 Parikshit Maharjan. All rights reserved.
+        &copy; 2026 Parikshit Maharjan. All rights reserved.
       </p>
       <div className="flex justify-center gap-4 mt-4">
         <a
